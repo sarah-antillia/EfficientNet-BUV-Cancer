@@ -55,7 +55,7 @@ You will have the following directory tree:<br>
         └─test
 </pre>
 <h3>
-<a id="1.2">1.2 Prepare BUV dataset</a>
+<a id="1.2">1.2 Prepare Breast Cancer dataset</a>
 </h3>
 <h4>1 Download Dataset</h4>
 Please download <b>Miccai 2022 BUV Dataset</b> from the following Google Drive.
