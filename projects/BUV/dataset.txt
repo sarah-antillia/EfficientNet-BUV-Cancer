@@ -1,0 +1,10 @@
+The dataset used here has been taken from the following Google Drive
+
+Miccai 2022 BUV Dataset
+https://drive.google.com/file/d/1LVXK34OJhC2LkqqyMmVFnXsXQavvZdeF/view?usp=sharing
+
+
+https://github.com/jhl-Det/CVA-Net
+This repository is an official implementation of the paper A New Dataset and 
+A Baseline Model for Breast Lesion Detection in Ultrasound Videos. (MICCAI-2022)
+
