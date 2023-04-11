@@ -406,3 +406,37 @@ pages="614--623",
 }
 </pre>
 
+<b>2. Breast Ultrasound Images Dataset</b><br>
+Breast ultrasound images for classification, detection & segmentation<br>
+<pre>
+https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
+</pre>
+Citation:<br>
+<pre>
+Al-Dhabyani W, Gomaa M, Khaled H, Fahmy A. 
+Dataset of breast ultrasound images. Data in Brief. 
+2020 Feb;28:104863. 
+DOI: 10.1016/j.dib.2019.104863.
+</pre>
+
+<b>3. Breast lesion detection using an anchor-free network from ultrasound images with segmentation-based enhancement</b><br>
+Yu Wang & Yudong Yao<br>
+<pre>
+https://www.nature.com/articles/s41598-022-18747-y
+</pre>
+
+<b>4. Classification of Breast Cancer Ultrasound Images with Deep Learning-Based Models </b><br>
+Fatih Uysa,and Mehmet Murat Köse<br>
+<pre>
+https://www.mdpi.com/2673-4591/31/1/8/html
+</pre>
+
+
+<b>5. A CNN Deep Learning Technique for Prediction of Breast Cancer using Ultrasound Image
+</b><br>
+Atisham Khan and Silky Pareyani<br>
+<pre>
+https://www.jetir.org/papers/JETIR2303813.pdf
+</pre>
+
+
