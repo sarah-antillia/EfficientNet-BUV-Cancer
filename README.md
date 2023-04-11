@@ -440,3 +440,10 @@ https://www.jetir.org/papers/JETIR2303813.pdf
 </pre>
 
 
+
+<b>5. EfficientDet-Breast-Cancer 
+</b><br>
+Sarah-antillia<br>
+<pre>
+https://github.com/sarah-antillia/EfficientDet-Breast-Cancer
+</pre>
